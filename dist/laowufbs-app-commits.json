@@ -1,0 +1,4202 @@
+[
+	{
+		"id": "6299bfa4cfa527c51761049b5241f0b0ec350a79",
+		"short_id": "6299bfa4",
+		"created_at": "2023-07-18T16:56:16.000+08:00",
+		"parent_ids": [
+			"d8815755b58bfda02dc3181522bff97cc4d13af7",
+			"620726efe8f47f33610ac3a3c3d07c881ea45de6"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：文件卡片增加空数据保护\n\nSee merge request crcc-web/laowufbs-app!13",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T16:56:16.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T16:56:16.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/6299bfa4cfa527c51761049b5241f0b0ec350a79"
+	},
+	{
+		"id": "620726efe8f47f33610ac3a3c3d07c881ea45de6",
+		"short_id": "620726ef",
+		"created_at": "2023-07-18T16:55:58.000+08:00",
+		"parent_ids": [
+			"d8815755b58bfda02dc3181522bff97cc4d13af7"
+		],
+		"title": "feature：文件卡片增加空数据保护",
+		"message": "feature：文件卡片增加空数据保护\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T16:55:58.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T16:55:58.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/620726efe8f47f33610ac3a3c3d07c881ea45de6"
+	},
+	{
+		"id": "d8815755b58bfda02dc3181522bff97cc4d13af7",
+		"short_id": "d8815755",
+		"created_at": "2023-07-18T16:49:45.000+08:00",
+		"parent_ids": [
+			"198260aabe4217d0cfdfe8e322f8a386778c85a0"
+		],
+		"title": "fix： 提交",
+		"message": "fix： 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:49:45.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:49:45.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d8815755b58bfda02dc3181522bff97cc4d13af7"
+	},
+	{
+		"id": "198260aabe4217d0cfdfe8e322f8a386778c85a0",
+		"short_id": "198260aa",
+		"created_at": "2023-07-18T16:35:58.000+08:00",
+		"parent_ids": [
+			"175aed650d93e5d038540e5f7bc1d99b8b41b456",
+			"6f126b600df20f656577ac7b9beaab4fc4bc47dd"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T16:35:58.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T16:35:58.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/198260aabe4217d0cfdfe8e322f8a386778c85a0"
+	},
+	{
+		"id": "175aed650d93e5d038540e5f7bc1d99b8b41b456",
+		"short_id": "175aed65",
+		"created_at": "2023-07-18T16:35:54.000+08:00",
+		"parent_ids": [
+			"67b08f757bf6ddff321be178bd85318d55d670bc"
+		],
+		"title": "文件下载和审批流",
+		"message": "文件下载和审批流\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T16:35:54.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T16:35:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/175aed650d93e5d038540e5f7bc1d99b8b41b456"
+	},
+	{
+		"id": "6f126b600df20f656577ac7b9beaab4fc4bc47dd",
+		"short_id": "6f126b60",
+		"created_at": "2023-07-18T16:28:41.000+08:00",
+		"parent_ids": [
+			"2bcf4d77351c5eb5be89a2ded2c023ae4784ae55"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:28:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:28:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/6f126b600df20f656577ac7b9beaab4fc4bc47dd"
+	},
+	{
+		"id": "2bcf4d77351c5eb5be89a2ded2c023ae4784ae55",
+		"short_id": "2bcf4d77",
+		"created_at": "2023-07-18T16:24:19.000+08:00",
+		"parent_ids": [
+			"8c32c23b243790e3566770f8eec8f465b09abc35"
+		],
+		"title": "fix: 修改tab点击后，自动滚动对应位置",
+		"message": "fix: 修改tab点击后，自动滚动对应位置\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:24:19.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:24:19.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2bcf4d77351c5eb5be89a2ded2c023ae4784ae55"
+	},
+	{
+		"id": "8c32c23b243790e3566770f8eec8f465b09abc35",
+		"short_id": "8c32c23b",
+		"created_at": "2023-07-18T15:36:39.000+08:00",
+		"parent_ids": [
+			"4b41d0151b9f254b77dc129bffd698cb93d3519a"
+		],
+		"title": "build时不进行语法校验",
+		"message": "build时不进行语法校验\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-18T15:36:39.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-18T15:36:39.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/8c32c23b243790e3566770f8eec8f465b09abc35"
+	},
+	{
+		"id": "4b41d0151b9f254b77dc129bffd698cb93d3519a",
+		"short_id": "4b41d015",
+		"created_at": "2023-07-18T15:35:25.000+08:00",
+		"parent_ids": [
+			"0e8318b97694aaf8eb34ad11cb76476e66405adc"
+		],
+		"title": "提交劳务信用评价的代码",
+		"message": "提交劳务信用评价的代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-18T15:35:25.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-18T15:35:25.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4b41d0151b9f254b77dc129bffd698cb93d3519a"
+	},
+	{
+		"id": "0e8318b97694aaf8eb34ad11cb76476e66405adc",
+		"short_id": "0e8318b9",
+		"created_at": "2023-07-18T15:26:43.000+08:00",
+		"parent_ids": [
+			"4091b2b6e3c565a9e3adf361456af07704f80761"
+		],
+		"title": "fix： 路由缓存后，在url参数变化后，重新加载",
+		"message": "fix： 路由缓存后，在url参数变化后，重新加载\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T15:26:43.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T15:26:43.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0e8318b97694aaf8eb34ad11cb76476e66405adc"
+	},
+	{
+		"id": "4091b2b6e3c565a9e3adf361456af07704f80761",
+		"short_id": "4091b2b6",
+		"created_at": "2023-07-18T14:54:26.000+08:00",
+		"parent_ids": [
+			"4247e80a9271c3cd1cba3b2b369e60f48e4d55d5",
+			"60642e0cc5059cd629f0f2c40a3b287f4f648007"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情安全生产许可证信息模块\n\nSee merge request crcc-web/laowufbs-app!11",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:54:26.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:54:26.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4091b2b6e3c565a9e3adf361456af07704f80761"
+	},
+	{
+		"id": "60642e0cc5059cd629f0f2c40a3b287f4f648007",
+		"short_id": "60642e0c",
+		"created_at": "2023-07-18T14:54:01.000+08:00",
+		"parent_ids": [
+			"4247e80a9271c3cd1cba3b2b369e60f48e4d55d5"
+		],
+		"title": "feature：分包商名录详情安全生产许可证信息模块",
+		"message": "feature：分包商名录详情安全生产许可证信息模块\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:54:01.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:54:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/60642e0cc5059cd629f0f2c40a3b287f4f648007"
+	},
+	{
+		"id": "4247e80a9271c3cd1cba3b2b369e60f48e4d55d5",
+		"short_id": "4247e80a",
+		"created_at": "2023-07-18T14:29:18.000+08:00",
+		"parent_ids": [
+			"67b08f757bf6ddff321be178bd85318d55d670bc",
+			"aee65d0441b76140dfed37310804ae92600677a0"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录搜索功能适配\n\nSee merge request crcc-web/laowufbs-app!10",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:29:18.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:29:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4247e80a9271c3cd1cba3b2b369e60f48e4d55d5"
+	},
+	{
+		"id": "aee65d0441b76140dfed37310804ae92600677a0",
+		"short_id": "aee65d04",
+		"created_at": "2023-07-18T14:28:45.000+08:00",
+		"parent_ids": [
+			"67b08f757bf6ddff321be178bd85318d55d670bc"
+		],
+		"title": "feature：分包商名录搜索功能适配",
+		"message": "feature：分包商名录搜索功能适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:28:45.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:28:45.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/aee65d0441b76140dfed37310804ae92600677a0"
+	},
+	{
+		"id": "67b08f757bf6ddff321be178bd85318d55d670bc",
+		"short_id": "67b08f75",
+		"created_at": "2023-07-18T13:24:37.000+08:00",
+		"parent_ids": [
+			"f2e788a6bf794ab463733fb9fcb1b46f54c87b9b"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:24:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:24:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/67b08f757bf6ddff321be178bd85318d55d670bc"
+	},
+	{
+		"id": "f2e788a6bf794ab463733fb9fcb1b46f54c87b9b",
+		"short_id": "f2e788a6",
+		"created_at": "2023-07-18T13:22:31.000+08:00",
+		"parent_ids": [
+			"be33bab06fe266b7b48a89b00c3e7424bf2059c2"
+		],
+		"title": "feat: 提测合同和关联合同",
+		"message": "feat: 提测合同和关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:22:31.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:22:31.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f2e788a6bf794ab463733fb9fcb1b46f54c87b9b"
+	},
+	{
+		"id": "be33bab06fe266b7b48a89b00c3e7424bf2059c2",
+		"short_id": "be33bab0",
+		"created_at": "2023-07-18T11:59:18.000+08:00",
+		"parent_ids": [
+			"4255a939d8c572bf859577009e9aa8833a9185cd",
+			"1d2e6492ebd609ecd2e76b8c3b74d3e8fa75686c"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情接口适配\n\nSee merge request crcc-web/laowufbs-app!8",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T11:59:18.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T11:59:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/be33bab06fe266b7b48a89b00c3e7424bf2059c2"
+	},
+	{
+		"id": "1d2e6492ebd609ecd2e76b8c3b74d3e8fa75686c",
+		"short_id": "1d2e6492",
+		"created_at": "2023-07-18T11:58:46.000+08:00",
+		"parent_ids": [
+			"4255a939d8c572bf859577009e9aa8833a9185cd"
+		],
+		"title": "feature：分包商名录详情接口适配",
+		"message": "feature：分包商名录详情接口适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T11:58:46.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T11:58:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/1d2e6492ebd609ecd2e76b8c3b74d3e8fa75686c"
+	},
+	{
+		"id": "4255a939d8c572bf859577009e9aa8833a9185cd",
+		"short_id": "4255a939",
+		"created_at": "2023-07-18T11:42:33.000+08:00",
+		"parent_ids": [
+			"58e75e8ab83977e3bd46f155ca7971ea0b356b7c"
+		],
+		"title": "代码提交",
+		"message": "代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T11:42:33.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T11:42:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4255a939d8c572bf859577009e9aa8833a9185cd"
+	},
+	{
+		"id": "58e75e8ab83977e3bd46f155ca7971ea0b356b7c",
+		"short_id": "58e75e8a",
+		"created_at": "2023-07-18T10:13:42.000+08:00",
+		"parent_ids": [
+			"364c8b4df98defa785df61f063ffb04058eeb625",
+			"2165a6e6c4d627f12d6fb78671e3fed43ef35b22"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录接口适配\n\nSee merge request crcc-web/laowufbs-app!7",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T10:13:42.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T10:13:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/58e75e8ab83977e3bd46f155ca7971ea0b356b7c"
+	},
+	{
+		"id": "2165a6e6c4d627f12d6fb78671e3fed43ef35b22",
+		"short_id": "2165a6e6",
+		"created_at": "2023-07-18T10:13:17.000+08:00",
+		"parent_ids": [
+			"364c8b4df98defa785df61f063ffb04058eeb625"
+		],
+		"title": "feature：分包商名录接口适配",
+		"message": "feature：分包商名录接口适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T10:13:17.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T10:13:17.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2165a6e6c4d627f12d6fb78671e3fed43ef35b22"
+	},
+	{
+		"id": "364c8b4df98defa785df61f063ffb04058eeb625",
+		"short_id": "364c8b4d",
+		"created_at": "2023-07-18T08:58:43.000+08:00",
+		"parent_ids": [
+			"d039684db552c58e013c57083b98841cc23f93e4"
+		],
+		"title": "准入代码提交",
+		"message": "准入代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T08:58:43.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T08:58:43.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/364c8b4df98defa785df61f063ffb04058eeb625"
+	},
+	{
+		"id": "d039684db552c58e013c57083b98841cc23f93e4",
+		"short_id": "d039684d",
+		"created_at": "2023-07-18T08:51:21.000+08:00",
+		"parent_ids": [
+			"9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+			"e5226b1c5eceefca901f09cdd6e13bb2dca222fa"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:21.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:21.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d039684db552c58e013c57083b98841cc23f93e4"
+	},
+	{
+		"id": "9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+		"short_id": "9985a03e",
+		"created_at": "2023-07-18T08:51:17.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+		],
+		"title": "fix： 优化快速搜索组件",
+		"message": "fix： 优化快速搜索组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:17.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:17.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9985a03e4a6232b1167fa6db80f8ac70ec3607c3"
+	},
+	{
+		"id": "e5226b1c5eceefca901f09cdd6e13bb2dca222fa",
+		"short_id": "e5226b1c",
+		"created_at": "2023-07-17T18:19:41.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+			"fbbb869b8712f7939d9aac8704d46f27741b90f2"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature；分包商名录接口适配\n\nSee merge request crcc-web/laowufbs-app!6",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-17T18:19:41.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-17T18:19:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/e5226b1c5eceefca901f09cdd6e13bb2dca222fa"
+	},
+	{
+		"id": "fbbb869b8712f7939d9aac8704d46f27741b90f2",
+		"short_id": "fbbb869b",
+		"created_at": "2023-07-17T18:19:13.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+		],
+		"title": "feature；分包商名录接口适配",
+		"message": "feature；分包商名录接口适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-17T18:19:13.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-17T18:19:13.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fbbb869b8712f7939d9aac8704d46f27741b90f2"
+	},
+	{
+		"id": "f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+		"short_id": "f395e0bc",
+		"created_at": "2023-07-17T17:20:09.000+08:00",
+		"parent_ids": [
+			"a1696a6b87a9551882cda591472867815cc0ca77"
+		],
+		"title": "feat: 增加菜单权限控制",
+		"message": "feat: 增加菜单权限控制\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T17:20:09.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T17:20:09.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+	},
+	{
+		"id": "a1696a6b87a9551882cda591472867815cc0ca77",
+		"short_id": "a1696a6b",
+		"created_at": "2023-07-17T16:42:30.000+08:00",
+		"parent_ids": [
+			"7df72479376034041f872dc64feed1fc04b4b88e"
+		],
+		"title": "feat：对接合同和关联合同接口",
+		"message": "feat：对接合同和关联合同接口\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T16:42:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T16:42:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a1696a6b87a9551882cda591472867815cc0ca77"
+	},
+	{
+		"id": "7df72479376034041f872dc64feed1fc04b4b88e",
+		"short_id": "7df72479",
+		"created_at": "2023-07-17T15:01:39.000+08:00",
+		"parent_ids": [
+			"9366cdde7ea748f33597f5a12508b92e6bb7fc6a"
+		],
+		"title": "fix: 修复下拉刷新列表",
+		"message": "fix: 修复下拉刷新列表\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T15:01:39.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T15:01:39.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7df72479376034041f872dc64feed1fc04b4b88e"
+	},
+	{
+		"id": "9366cdde7ea748f33597f5a12508b92e6bb7fc6a",
+		"short_id": "9366cdde",
+		"created_at": "2023-07-17T14:55:51.000+08:00",
+		"parent_ids": [
+			"c515d12c7a21fc96cc6f5de186d96f157e602eab"
+		],
+		"title": "fix: 修复项目树节点无法缓存问题",
+		"message": "fix: 修复项目树节点无法缓存问题\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T14:55:51.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T14:55:51.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9366cdde7ea748f33597f5a12508b92e6bb7fc6a"
+	},
+	{
+		"id": "c515d12c7a21fc96cc6f5de186d96f157e602eab",
+		"short_id": "c515d12c",
+		"created_at": "2023-07-17T11:42:46.000+08:00",
+		"parent_ids": [
+			"2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T11:42:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T11:42:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/c515d12c7a21fc96cc6f5de186d96f157e602eab"
+	},
+	{
+		"id": "2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce",
+		"short_id": "2b7a8c6c",
+		"created_at": "2023-07-17T10:25:32.000+08:00",
+		"parent_ids": [
+			"10bf5905135d4aac331305d3062d41c07032b9dd"
+		],
+		"title": "获取项目和公司列表接口定义",
+		"message": "获取项目和公司列表接口定义\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-17T10:25:32.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-17T10:25:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce"
+	},
+	{
+		"id": "10bf5905135d4aac331305d3062d41c07032b9dd",
+		"short_id": "10bf5905",
+		"created_at": "2023-07-17T09:49:00.000+08:00",
+		"parent_ids": [
+			"3700d7f4e28bd513adb4ea805c4b4f3fce82293e"
+		],
+		"title": "重构 PullRefreshList 组件",
+		"message": "重构 PullRefreshList 组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T09:49:00.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T09:49:00.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/10bf5905135d4aac331305d3062d41c07032b9dd"
+	},
+	{
+		"id": "3700d7f4e28bd513adb4ea805c4b4f3fce82293e",
+		"short_id": "3700d7f4",
+		"created_at": "2023-07-14T18:29:25.000+08:00",
+		"parent_ids": [
+			"f034565a1aac53035b8326af394bda8df9fa646e"
+		],
+		"title": "feat: 增加关联合同",
+		"message": "feat: 增加关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:29:25.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:29:25.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3700d7f4e28bd513adb4ea805c4b4f3fce82293e"
+	},
+	{
+		"id": "f034565a1aac53035b8326af394bda8df9fa646e",
+		"short_id": "f034565a",
+		"created_at": "2023-07-14T18:17:33.000+08:00",
+		"parent_ids": [
+			"e1211912ad1790e6096450d958c41082662e3a05"
+		],
+		"title": "删除",
+		"message": "删除\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:17:33.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:17:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f034565a1aac53035b8326af394bda8df9fa646e"
+	},
+	{
+		"id": "e1211912ad1790e6096450d958c41082662e3a05",
+		"short_id": "e1211912",
+		"created_at": "2023-07-14T18:16:32.000+08:00",
+		"parent_ids": [
+			"8cc090ec576e74c1305c11f69359828da45c2cd5"
+		],
+		"title": "fix: 重构准入",
+		"message": "fix: 重构准入\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:16:32.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:16:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/e1211912ad1790e6096450d958c41082662e3a05"
+	},
+	{
+		"id": "8cc090ec576e74c1305c11f69359828da45c2cd5",
+		"short_id": "8cc090ec",
+		"created_at": "2023-07-14T17:09:37.000+08:00",
+		"parent_ids": [
+			"7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+		],
+		"title": "feat: 调整公共组件  PullRefreshList",
+		"message": "feat: 调整公共组件  PullRefreshList\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T17:09:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T17:09:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/8cc090ec576e74c1305c11f69359828da45c2cd5"
+	},
+	{
+		"id": "7ad40f494f234ecb3bfb3be5b4ae55680862f07b",
+		"short_id": "7ad40f49",
+		"created_at": "2023-07-14T08:01:57.000+00:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+			"22212d41da4c07199a5edd255885b9c941885eff"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情\n\nSee merge request crcc-web/laowufbs-app!3",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T08:01:57.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T08:01:57.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+	},
+	{
+		"id": "22212d41da4c07199a5edd255885b9c941885eff",
+		"short_id": "22212d41",
+		"created_at": "2023-07-14T16:01:29.000+08:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+		],
+		"title": "feature：分包商名录详情",
+		"message": "feature：分包商名录详情\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T16:01:29.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T16:01:29.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/22212d41da4c07199a5edd255885b9c941885eff"
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82"
+	},
+	{
+		"id": "5ce55333fd8188e9b4e509f8659ea3111972fb94",
+		"short_id": "5ce55333",
+		"created_at": "2023-07-14T06:48:30.000+00:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+			"fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录重构\n\nSee merge request crcc-web/laowufbs-app!2",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T06:48:30.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T06:48:30.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5ce55333fd8188e9b4e509f8659ea3111972fb94"
+	},
+	{
+		"id": "fd5896f8555d6b88251f4e1810201f8a5e106ba2",
+		"short_id": "fd5896f8",
+		"created_at": "2023-07-14T14:45:11.000+08:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+		],
+		"title": "feature：分包商名录重构",
+		"message": "feature：分包商名录重构\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T14:45:11.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T14:45:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+	},
+	{
+		"id": "7abb982c4a1c5db6d1ca99519cc6312011e68ad3",
+		"short_id": "7abb982c",
+		"created_at": "2023-07-14T10:03:28.000+08:00",
+		"parent_ids": [
+			"cdff0cf888cbea7b919288aab946cba4b864b0c2"
+		],
+		"title": "审批流",
+		"message": "审批流\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-14T10:03:28.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-14T10:03:28.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2"
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94"
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22"
+	},
+	{
+		"id": "f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d",
+		"short_id": "f9f5e779",
+		"created_at": "2023-07-13T18:23:03.000+08:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+		],
+		"title": "feature：分包商名录",
+		"message": "feature：分包商名录\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-13T18:23:03.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-13T18:23:03.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e"
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf"
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa"
+	},
+	{
+		"id": "f82b2fea3dea6f146a1bb97313a626e7bddf26b6",
+		"short_id": "f82b2fea",
+		"created_at": "2023-07-12T09:40:08.000+08:00",
+		"parent_ids": [
+			"abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+		],
+		"title": "代码提交",
+		"message": "代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-12T09:40:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-12T09:40:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b"
+	},
+	{
+		"id": "fd558e171113a07e97a923317c2c840997b0d2c5",
+		"short_id": "fd558e17",
+		"created_at": "2023-07-11T18:42:08.000+08:00",
+		"parent_ids": [
+			"3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+			"607903d0bcfef82fd2668297c447fee55d62fcfe"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd558e171113a07e97a923317c2c840997b0d2c5"
+	},
+	{
+		"id": "3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+		"short_id": "3005d19f",
+		"created_at": "2023-07-11T18:42:06.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "准入代码提交",
+		"message": "准入代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:06.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:06.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3005d19f32085af15c42c88e2e4ee7b5ee4125bf"
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe"
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50"
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d"
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0"
+	},
+	{
+		"id": "29c8214a63518c32d23c86ef09df8675c93f0224",
+		"short_id": "29c8214a",
+		"created_at": "2023-07-10T18:40:33.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "审批流接入初步修改",
+		"message": "审批流接入初步修改\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-10T18:40:33.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-10T18:40:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/29c8214a63518c32d23c86ef09df8675c93f0224"
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56"
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	},
+	{
+		"id": "84ebbdd9a9692db3b55568aa9fcee4709a71c7fa",
+		"short_id": "84ebbdd9",
+		"created_at": "2023-07-18T14:24:58.000+08:00",
+		"parent_ids": [
+			"9b15b7c51aca1aeb02e44455fcf817058079e092"
+		],
+		"title": "提交代码",
+		"message": "提交代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-18T14:24:58.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-18T14:24:58.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/84ebbdd9a9692db3b55568aa9fcee4709a71c7fa"
+	},
+	{
+		"id": "9b15b7c51aca1aeb02e44455fcf817058079e092",
+		"short_id": "9b15b7c5",
+		"created_at": "2023-07-17T18:10:22.000+08:00",
+		"parent_ids": [
+			"5643e884ed79605ba17ad445deed3010f04fb692"
+		],
+		"title": "提交项目维度代码",
+		"message": "提交项目维度代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-17T18:10:22.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-17T18:10:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9b15b7c51aca1aeb02e44455fcf817058079e092"
+	},
+	{
+		"id": "5643e884ed79605ba17ad445deed3010f04fb692",
+		"short_id": "5643e884",
+		"created_at": "2023-07-17T17:58:24.000+08:00",
+		"parent_ids": [
+			"999a395de70cf433a23b97474e4b2ad835137371"
+		],
+		"title": "新增页面",
+		"message": "新增页面\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-17T17:58:24.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-17T17:58:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5643e884ed79605ba17ad445deed3010f04fb692"
+	},
+	{
+		"id": "999a395de70cf433a23b97474e4b2ad835137371",
+		"short_id": "999a395d",
+		"created_at": "2023-07-15T17:03:30.000+08:00",
+		"parent_ids": [
+			"ede3f752b49339cdc57ab6d63ccd87c33072d3f1"
+		],
+		"title": "提交代码",
+		"message": "提交代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T17:03:30.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T17:03:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/999a395de70cf433a23b97474e4b2ad835137371"
+	},
+	{
+		"id": "ede3f752b49339cdc57ab6d63ccd87c33072d3f1",
+		"short_id": "ede3f752",
+		"created_at": "2023-07-15T15:27:36.000+08:00",
+		"parent_ids": [
+			"95a14a332da60444bf07900639ef9466d23d1d82"
+		],
+		"title": "提交代码",
+		"message": "提交代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T15:27:36.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T15:27:36.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ede3f752b49339cdc57ab6d63ccd87c33072d3f1"
+	},
+	{
+		"id": "95a14a332da60444bf07900639ef9466d23d1d82",
+		"short_id": "95a14a33",
+		"created_at": "2023-07-15T14:16:27.000+08:00",
+		"parent_ids": [
+			"77c43c81ec2eabb5f6ebc8f2d563522df1c10ed7"
+		],
+		"title": "提交5a,c级，临建队伍列表",
+		"message": "提交5a,c级，临建队伍列表\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T14:16:27.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T14:16:27.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/95a14a332da60444bf07900639ef9466d23d1d82"
+	},
+	{
+		"id": "77c43c81ec2eabb5f6ebc8f2d563522df1c10ed7",
+		"short_id": "77c43c81",
+		"created_at": "2023-07-15T09:50:36.000+08:00",
+		"parent_ids": [
+			"5eec4d1d8ebed2879a3ef7e3838c63050e310f75"
+		],
+		"title": "提交劳务分包商信用评价代码",
+		"message": "提交劳务分包商信用评价代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T09:50:36.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T09:50:36.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/77c43c81ec2eabb5f6ebc8f2d563522df1c10ed7"
+	},
+	{
+		"id": "5eec4d1d8ebed2879a3ef7e3838c63050e310f75",
+		"short_id": "5eec4d1d",
+		"created_at": "2023-07-14T08:11:42.000+00:00",
+		"parent_ids": [
+			"cdff0cf888cbea7b919288aab946cba4b864b0c2",
+			"7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+		],
+		"title": "Merge branch 'dev' into 'dev-laowufbs-creditRate'",
+		"message": "Merge branch 'dev' into 'dev-laowufbs-creditRate'\n\nDev\n\nSee merge request crcc-web/laowufbs-app!4",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-14T08:11:42.000+00:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-14T08:11:42.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5eec4d1d8ebed2879a3ef7e3838c63050e310f75"
+	},
+	{
+		"id": "7ad40f494f234ecb3bfb3be5b4ae55680862f07b",
+		"short_id": "7ad40f49",
+		"created_at": "2023-07-14T08:01:57.000+00:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+			"22212d41da4c07199a5edd255885b9c941885eff"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情\n\nSee merge request crcc-web/laowufbs-app!3",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T08:01:57.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T08:01:57.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+	},
+	{
+		"id": "22212d41da4c07199a5edd255885b9c941885eff",
+		"short_id": "22212d41",
+		"created_at": "2023-07-14T16:01:29.000+08:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+		],
+		"title": "feature：分包商名录详情",
+		"message": "feature：分包商名录详情\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T16:01:29.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T16:01:29.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/22212d41da4c07199a5edd255885b9c941885eff"
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82"
+	},
+	{
+		"id": "5ce55333fd8188e9b4e509f8659ea3111972fb94",
+		"short_id": "5ce55333",
+		"created_at": "2023-07-14T06:48:30.000+00:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+			"fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录重构\n\nSee merge request crcc-web/laowufbs-app!2",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T06:48:30.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T06:48:30.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5ce55333fd8188e9b4e509f8659ea3111972fb94"
+	},
+	{
+		"id": "fd5896f8555d6b88251f4e1810201f8a5e106ba2",
+		"short_id": "fd5896f8",
+		"created_at": "2023-07-14T14:45:11.000+08:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+		],
+		"title": "feature：分包商名录重构",
+		"message": "feature：分包商名录重构\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T14:45:11.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T14:45:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+	},
+	{
+		"id": "7abb982c4a1c5db6d1ca99519cc6312011e68ad3",
+		"short_id": "7abb982c",
+		"created_at": "2023-07-14T10:03:28.000+08:00",
+		"parent_ids": [
+			"cdff0cf888cbea7b919288aab946cba4b864b0c2"
+		],
+		"title": "审批流",
+		"message": "审批流\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-14T10:03:28.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-14T10:03:28.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2"
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94"
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22"
+	},
+	{
+		"id": "f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d",
+		"short_id": "f9f5e779",
+		"created_at": "2023-07-13T18:23:03.000+08:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+		],
+		"title": "feature：分包商名录",
+		"message": "feature：分包商名录\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-13T18:23:03.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-13T18:23:03.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e"
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf"
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa"
+	},
+	{
+		"id": "f82b2fea3dea6f146a1bb97313a626e7bddf26b6",
+		"short_id": "f82b2fea",
+		"created_at": "2023-07-12T09:40:08.000+08:00",
+		"parent_ids": [
+			"abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+		],
+		"title": "代码提交",
+		"message": "代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-12T09:40:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-12T09:40:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b"
+	},
+	{
+		"id": "fd558e171113a07e97a923317c2c840997b0d2c5",
+		"short_id": "fd558e17",
+		"created_at": "2023-07-11T18:42:08.000+08:00",
+		"parent_ids": [
+			"3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+			"607903d0bcfef82fd2668297c447fee55d62fcfe"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd558e171113a07e97a923317c2c840997b0d2c5"
+	},
+	{
+		"id": "3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+		"short_id": "3005d19f",
+		"created_at": "2023-07-11T18:42:06.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "准入代码提交",
+		"message": "准入代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:06.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:06.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3005d19f32085af15c42c88e2e4ee7b5ee4125bf"
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe"
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50"
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d"
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0"
+	},
+	{
+		"id": "29c8214a63518c32d23c86ef09df8675c93f0224",
+		"short_id": "29c8214a",
+		"created_at": "2023-07-10T18:40:33.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "审批流接入初步修改",
+		"message": "审批流接入初步修改\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-10T18:40:33.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-10T18:40:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/29c8214a63518c32d23c86ef09df8675c93f0224"
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56"
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	},
+	{
+		"id": "26ebaa3096d22484d3098d13492dff8bbdf5e97c",
+		"short_id": "26ebaa30",
+		"created_at": "2023-07-18T14:42:50.000+08:00",
+		"parent_ids": [
+			"ee25fedec2befe0e08aa577489794cfa89506a22"
+		],
+		"title": "code",
+		"message": "code\n",
+		"author_name": "DESKTOP-C7SVQNL\\刘庆",
+		"author_email": "1139478127@qq.com",
+		"authored_date": "2023-07-18T14:42:50.000+08:00",
+		"committer_name": "DESKTOP-C7SVQNL\\刘庆",
+		"committer_email": "1139478127@qq.com",
+		"committed_date": "2023-07-18T14:42:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/26ebaa3096d22484d3098d13492dff8bbdf5e97c"
+	},
+	{
+		"id": "ee25fedec2befe0e08aa577489794cfa89506a22",
+		"short_id": "ee25fede",
+		"created_at": "2023-07-17T18:58:06.000+08:00",
+		"parent_ids": [
+			"26c48c769077a832c676987e308a8d6050c784be"
+		],
+		"title": "code",
+		"message": "code\n",
+		"author_name": "DESKTOP-C7SVQNL\\刘庆",
+		"author_email": "1139478127@qq.com",
+		"authored_date": "2023-07-17T18:58:06.000+08:00",
+		"committer_name": "DESKTOP-C7SVQNL\\刘庆",
+		"committer_email": "1139478127@qq.com",
+		"committed_date": "2023-07-17T18:58:06.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ee25fedec2befe0e08aa577489794cfa89506a22"
+	},
+	{
+		"id": "26c48c769077a832c676987e308a8d6050c784be",
+		"short_id": "26c48c76",
+		"created_at": "2023-07-17T10:01:01.000+08:00",
+		"parent_ids": [
+			"bd4d09e5ca9abfd7e283a652feaccc046718fc6b",
+			"999a395de70cf433a23b97474e4b2ad835137371"
+		],
+		"title": "Merge branch 'dev-laowufbs-creditRate' into 'laowufbs-app-liuqing'",
+		"message": "Merge branch 'dev-laowufbs-creditRate' into 'laowufbs-app-liuqing'\n\n提交代码\n\nSee merge request crcc-web/laowufbs-app!5",
+		"author_name": "liu dada",
+		"author_email": "1139478127@qq.com",
+		"authored_date": "2023-07-17T10:01:01.000+08:00",
+		"committer_name": "liu dada",
+		"committer_email": "1139478127@qq.com",
+		"committed_date": "2023-07-17T10:01:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/26c48c769077a832c676987e308a8d6050c784be"
+	},
+	{
+		"id": "bd4d09e5ca9abfd7e283a652feaccc046718fc6b",
+		"short_id": "bd4d09e5",
+		"created_at": "2023-07-17T09:59:32.000+08:00",
+		"parent_ids": [
+			"1e1e6847893e88ce74fc7505019ca33773564cb2"
+		],
+		"title": "code",
+		"message": "code\n",
+		"author_name": "DESKTOP-C7SVQNL\\刘庆",
+		"author_email": "1139478127@qq.com",
+		"authored_date": "2023-07-17T09:59:32.000+08:00",
+		"committer_name": "DESKTOP-C7SVQNL\\刘庆",
+		"committer_email": "1139478127@qq.com",
+		"committed_date": "2023-07-17T09:59:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bd4d09e5ca9abfd7e283a652feaccc046718fc6b"
+	},
+	{
+		"id": "1e1e6847893e88ce74fc7505019ca33773564cb2",
+		"short_id": "1e1e6847",
+		"created_at": "2023-07-15T17:23:12.000+08:00",
+		"parent_ids": [
+			"ede3f752b49339cdc57ab6d63ccd87c33072d3f1"
+		],
+		"title": "code",
+		"message": "code\n",
+		"author_name": "DESKTOP-C7SVQNL\\刘庆",
+		"author_email": "1139478127@qq.com",
+		"authored_date": "2023-07-15T17:23:12.000+08:00",
+		"committer_name": "DESKTOP-C7SVQNL\\刘庆",
+		"committer_email": "1139478127@qq.com",
+		"committed_date": "2023-07-15T17:23:12.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/1e1e6847893e88ce74fc7505019ca33773564cb2"
+	},
+	{
+		"id": "999a395de70cf433a23b97474e4b2ad835137371",
+		"short_id": "999a395d",
+		"created_at": "2023-07-15T17:03:30.000+08:00",
+		"parent_ids": [
+			"ede3f752b49339cdc57ab6d63ccd87c33072d3f1"
+		],
+		"title": "提交代码",
+		"message": "提交代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T17:03:30.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T17:03:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/999a395de70cf433a23b97474e4b2ad835137371"
+	},
+	{
+		"id": "ede3f752b49339cdc57ab6d63ccd87c33072d3f1",
+		"short_id": "ede3f752",
+		"created_at": "2023-07-15T15:27:36.000+08:00",
+		"parent_ids": [
+			"95a14a332da60444bf07900639ef9466d23d1d82"
+		],
+		"title": "提交代码",
+		"message": "提交代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T15:27:36.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T15:27:36.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ede3f752b49339cdc57ab6d63ccd87c33072d3f1"
+	},
+	{
+		"id": "95a14a332da60444bf07900639ef9466d23d1d82",
+		"short_id": "95a14a33",
+		"created_at": "2023-07-15T14:16:27.000+08:00",
+		"parent_ids": [
+			"77c43c81ec2eabb5f6ebc8f2d563522df1c10ed7"
+		],
+		"title": "提交5a,c级，临建队伍列表",
+		"message": "提交5a,c级，临建队伍列表\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T14:16:27.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T14:16:27.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/95a14a332da60444bf07900639ef9466d23d1d82"
+	},
+	{
+		"id": "77c43c81ec2eabb5f6ebc8f2d563522df1c10ed7",
+		"short_id": "77c43c81",
+		"created_at": "2023-07-15T09:50:36.000+08:00",
+		"parent_ids": [
+			"5eec4d1d8ebed2879a3ef7e3838c63050e310f75"
+		],
+		"title": "提交劳务分包商信用评价代码",
+		"message": "提交劳务分包商信用评价代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-15T09:50:36.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-15T09:50:36.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/77c43c81ec2eabb5f6ebc8f2d563522df1c10ed7"
+	},
+	{
+		"id": "5eec4d1d8ebed2879a3ef7e3838c63050e310f75",
+		"short_id": "5eec4d1d",
+		"created_at": "2023-07-14T08:11:42.000+00:00",
+		"parent_ids": [
+			"cdff0cf888cbea7b919288aab946cba4b864b0c2",
+			"7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+		],
+		"title": "Merge branch 'dev' into 'dev-laowufbs-creditRate'",
+		"message": "Merge branch 'dev' into 'dev-laowufbs-creditRate'\n\nDev\n\nSee merge request crcc-web/laowufbs-app!4",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-14T08:11:42.000+00:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-14T08:11:42.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5eec4d1d8ebed2879a3ef7e3838c63050e310f75"
+	},
+	{
+		"id": "7ad40f494f234ecb3bfb3be5b4ae55680862f07b",
+		"short_id": "7ad40f49",
+		"created_at": "2023-07-14T08:01:57.000+00:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+			"22212d41da4c07199a5edd255885b9c941885eff"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情\n\nSee merge request crcc-web/laowufbs-app!3",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T08:01:57.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T08:01:57.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+	},
+	{
+		"id": "22212d41da4c07199a5edd255885b9c941885eff",
+		"short_id": "22212d41",
+		"created_at": "2023-07-14T16:01:29.000+08:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+		],
+		"title": "feature：分包商名录详情",
+		"message": "feature：分包商名录详情\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T16:01:29.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T16:01:29.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/22212d41da4c07199a5edd255885b9c941885eff"
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82"
+	},
+	{
+		"id": "5ce55333fd8188e9b4e509f8659ea3111972fb94",
+		"short_id": "5ce55333",
+		"created_at": "2023-07-14T06:48:30.000+00:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+			"fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录重构\n\nSee merge request crcc-web/laowufbs-app!2",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T06:48:30.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T06:48:30.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5ce55333fd8188e9b4e509f8659ea3111972fb94"
+	},
+	{
+		"id": "fd5896f8555d6b88251f4e1810201f8a5e106ba2",
+		"short_id": "fd5896f8",
+		"created_at": "2023-07-14T14:45:11.000+08:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+		],
+		"title": "feature：分包商名录重构",
+		"message": "feature：分包商名录重构\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T14:45:11.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T14:45:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+	},
+	{
+		"id": "7abb982c4a1c5db6d1ca99519cc6312011e68ad3",
+		"short_id": "7abb982c",
+		"created_at": "2023-07-14T10:03:28.000+08:00",
+		"parent_ids": [
+			"cdff0cf888cbea7b919288aab946cba4b864b0c2"
+		],
+		"title": "审批流",
+		"message": "审批流\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-14T10:03:28.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-14T10:03:28.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2"
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94"
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22"
+	},
+	{
+		"id": "f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d",
+		"short_id": "f9f5e779",
+		"created_at": "2023-07-13T18:23:03.000+08:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+		],
+		"title": "feature：分包商名录",
+		"message": "feature：分包商名录\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-13T18:23:03.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-13T18:23:03.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e"
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf"
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa"
+	},
+	{
+		"id": "f82b2fea3dea6f146a1bb97313a626e7bddf26b6",
+		"short_id": "f82b2fea",
+		"created_at": "2023-07-12T09:40:08.000+08:00",
+		"parent_ids": [
+			"abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+		],
+		"title": "代码提交",
+		"message": "代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-12T09:40:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-12T09:40:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b"
+	},
+	{
+		"id": "fd558e171113a07e97a923317c2c840997b0d2c5",
+		"short_id": "fd558e17",
+		"created_at": "2023-07-11T18:42:08.000+08:00",
+		"parent_ids": [
+			"3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+			"607903d0bcfef82fd2668297c447fee55d62fcfe"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd558e171113a07e97a923317c2c840997b0d2c5"
+	},
+	{
+		"id": "3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+		"short_id": "3005d19f",
+		"created_at": "2023-07-11T18:42:06.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "准入代码提交",
+		"message": "准入代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:06.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:06.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3005d19f32085af15c42c88e2e4ee7b5ee4125bf"
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe"
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50"
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d"
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0"
+	},
+	{
+		"id": "29c8214a63518c32d23c86ef09df8675c93f0224",
+		"short_id": "29c8214a",
+		"created_at": "2023-07-10T18:40:33.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "审批流接入初步修改",
+		"message": "审批流接入初步修改\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-10T18:40:33.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-10T18:40:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/29c8214a63518c32d23c86ef09df8675c93f0224"
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56"
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	},
+	{
+		"id": "d8815755b58bfda02dc3181522bff97cc4d13af7",
+		"short_id": "d8815755",
+		"created_at": "2023-07-18T16:49:45.000+08:00",
+		"parent_ids": [
+			"198260aabe4217d0cfdfe8e322f8a386778c85a0"
+		],
+		"title": "fix： 提交",
+		"message": "fix： 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:49:45.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:49:45.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d8815755b58bfda02dc3181522bff97cc4d13af7"
+	},
+	{
+		"id": "198260aabe4217d0cfdfe8e322f8a386778c85a0",
+		"short_id": "198260aa",
+		"created_at": "2023-07-18T16:35:58.000+08:00",
+		"parent_ids": [
+			"175aed650d93e5d038540e5f7bc1d99b8b41b456",
+			"6f126b600df20f656577ac7b9beaab4fc4bc47dd"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T16:35:58.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T16:35:58.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/198260aabe4217d0cfdfe8e322f8a386778c85a0"
+	},
+	{
+		"id": "175aed650d93e5d038540e5f7bc1d99b8b41b456",
+		"short_id": "175aed65",
+		"created_at": "2023-07-18T16:35:54.000+08:00",
+		"parent_ids": [
+			"67b08f757bf6ddff321be178bd85318d55d670bc"
+		],
+		"title": "文件下载和审批流",
+		"message": "文件下载和审批流\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T16:35:54.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T16:35:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/175aed650d93e5d038540e5f7bc1d99b8b41b456"
+	},
+	{
+		"id": "6f126b600df20f656577ac7b9beaab4fc4bc47dd",
+		"short_id": "6f126b60",
+		"created_at": "2023-07-18T16:28:41.000+08:00",
+		"parent_ids": [
+			"2bcf4d77351c5eb5be89a2ded2c023ae4784ae55"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:28:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:28:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/6f126b600df20f656577ac7b9beaab4fc4bc47dd"
+	},
+	{
+		"id": "2bcf4d77351c5eb5be89a2ded2c023ae4784ae55",
+		"short_id": "2bcf4d77",
+		"created_at": "2023-07-18T16:24:19.000+08:00",
+		"parent_ids": [
+			"8c32c23b243790e3566770f8eec8f465b09abc35"
+		],
+		"title": "fix: 修改tab点击后，自动滚动对应位置",
+		"message": "fix: 修改tab点击后，自动滚动对应位置\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:24:19.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:24:19.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2bcf4d77351c5eb5be89a2ded2c023ae4784ae55"
+	},
+	{
+		"id": "8c32c23b243790e3566770f8eec8f465b09abc35",
+		"short_id": "8c32c23b",
+		"created_at": "2023-07-18T15:36:39.000+08:00",
+		"parent_ids": [
+			"4b41d0151b9f254b77dc129bffd698cb93d3519a"
+		],
+		"title": "build时不进行语法校验",
+		"message": "build时不进行语法校验\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-18T15:36:39.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-18T15:36:39.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/8c32c23b243790e3566770f8eec8f465b09abc35"
+	},
+	{
+		"id": "4b41d0151b9f254b77dc129bffd698cb93d3519a",
+		"short_id": "4b41d015",
+		"created_at": "2023-07-18T15:35:25.000+08:00",
+		"parent_ids": [
+			"0e8318b97694aaf8eb34ad11cb76476e66405adc"
+		],
+		"title": "提交劳务信用评价的代码",
+		"message": "提交劳务信用评价的代码\n",
+		"author_name": "wang rui",
+		"author_email": "554968505@qq.com",
+		"authored_date": "2023-07-18T15:35:25.000+08:00",
+		"committer_name": "wang rui",
+		"committer_email": "554968505@qq.com",
+		"committed_date": "2023-07-18T15:35:25.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4b41d0151b9f254b77dc129bffd698cb93d3519a"
+	},
+	{
+		"id": "0e8318b97694aaf8eb34ad11cb76476e66405adc",
+		"short_id": "0e8318b9",
+		"created_at": "2023-07-18T15:26:43.000+08:00",
+		"parent_ids": [
+			"4091b2b6e3c565a9e3adf361456af07704f80761"
+		],
+		"title": "fix： 路由缓存后，在url参数变化后，重新加载",
+		"message": "fix： 路由缓存后，在url参数变化后，重新加载\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T15:26:43.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T15:26:43.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0e8318b97694aaf8eb34ad11cb76476e66405adc"
+	},
+	{
+		"id": "4091b2b6e3c565a9e3adf361456af07704f80761",
+		"short_id": "4091b2b6",
+		"created_at": "2023-07-18T14:54:26.000+08:00",
+		"parent_ids": [
+			"4247e80a9271c3cd1cba3b2b369e60f48e4d55d5",
+			"60642e0cc5059cd629f0f2c40a3b287f4f648007"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情安全生产许可证信息模块\n\nSee merge request crcc-web/laowufbs-app!11",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:54:26.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:54:26.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4091b2b6e3c565a9e3adf361456af07704f80761"
+	},
+	{
+		"id": "60642e0cc5059cd629f0f2c40a3b287f4f648007",
+		"short_id": "60642e0c",
+		"created_at": "2023-07-18T14:54:01.000+08:00",
+		"parent_ids": [
+			"4247e80a9271c3cd1cba3b2b369e60f48e4d55d5"
+		],
+		"title": "feature：分包商名录详情安全生产许可证信息模块",
+		"message": "feature：分包商名录详情安全生产许可证信息模块\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:54:01.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:54:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/60642e0cc5059cd629f0f2c40a3b287f4f648007"
+	},
+	{
+		"id": "4247e80a9271c3cd1cba3b2b369e60f48e4d55d5",
+		"short_id": "4247e80a",
+		"created_at": "2023-07-18T14:29:18.000+08:00",
+		"parent_ids": [
+			"67b08f757bf6ddff321be178bd85318d55d670bc",
+			"aee65d0441b76140dfed37310804ae92600677a0"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录搜索功能适配\n\nSee merge request crcc-web/laowufbs-app!10",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:29:18.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:29:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4247e80a9271c3cd1cba3b2b369e60f48e4d55d5"
+	},
+	{
+		"id": "aee65d0441b76140dfed37310804ae92600677a0",
+		"short_id": "aee65d04",
+		"created_at": "2023-07-18T14:28:45.000+08:00",
+		"parent_ids": [
+			"67b08f757bf6ddff321be178bd85318d55d670bc"
+		],
+		"title": "feature：分包商名录搜索功能适配",
+		"message": "feature：分包商名录搜索功能适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T14:28:45.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T14:28:45.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/aee65d0441b76140dfed37310804ae92600677a0"
+	},
+	{
+		"id": "67b08f757bf6ddff321be178bd85318d55d670bc",
+		"short_id": "67b08f75",
+		"created_at": "2023-07-18T13:24:37.000+08:00",
+		"parent_ids": [
+			"f2e788a6bf794ab463733fb9fcb1b46f54c87b9b"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:24:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:24:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/67b08f757bf6ddff321be178bd85318d55d670bc"
+	},
+	{
+		"id": "f2e788a6bf794ab463733fb9fcb1b46f54c87b9b",
+		"short_id": "f2e788a6",
+		"created_at": "2023-07-18T13:22:31.000+08:00",
+		"parent_ids": [
+			"be33bab06fe266b7b48a89b00c3e7424bf2059c2"
+		],
+		"title": "feat: 提测合同和关联合同",
+		"message": "feat: 提测合同和关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:22:31.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:22:31.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f2e788a6bf794ab463733fb9fcb1b46f54c87b9b"
+	},
+	{
+		"id": "be33bab06fe266b7b48a89b00c3e7424bf2059c2",
+		"short_id": "be33bab0",
+		"created_at": "2023-07-18T11:59:18.000+08:00",
+		"parent_ids": [
+			"4255a939d8c572bf859577009e9aa8833a9185cd",
+			"1d2e6492ebd609ecd2e76b8c3b74d3e8fa75686c"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情接口适配\n\nSee merge request crcc-web/laowufbs-app!8",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T11:59:18.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T11:59:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/be33bab06fe266b7b48a89b00c3e7424bf2059c2"
+	},
+	{
+		"id": "1d2e6492ebd609ecd2e76b8c3b74d3e8fa75686c",
+		"short_id": "1d2e6492",
+		"created_at": "2023-07-18T11:58:46.000+08:00",
+		"parent_ids": [
+			"4255a939d8c572bf859577009e9aa8833a9185cd"
+		],
+		"title": "feature：分包商名录详情接口适配",
+		"message": "feature：分包商名录详情接口适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T11:58:46.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T11:58:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/1d2e6492ebd609ecd2e76b8c3b74d3e8fa75686c"
+	},
+	{
+		"id": "4255a939d8c572bf859577009e9aa8833a9185cd",
+		"short_id": "4255a939",
+		"created_at": "2023-07-18T11:42:33.000+08:00",
+		"parent_ids": [
+			"58e75e8ab83977e3bd46f155ca7971ea0b356b7c"
+		],
+		"title": "代码提交",
+		"message": "代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T11:42:33.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T11:42:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/4255a939d8c572bf859577009e9aa8833a9185cd"
+	},
+	{
+		"id": "58e75e8ab83977e3bd46f155ca7971ea0b356b7c",
+		"short_id": "58e75e8a",
+		"created_at": "2023-07-18T10:13:42.000+08:00",
+		"parent_ids": [
+			"364c8b4df98defa785df61f063ffb04058eeb625",
+			"2165a6e6c4d627f12d6fb78671e3fed43ef35b22"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录接口适配\n\nSee merge request crcc-web/laowufbs-app!7",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T10:13:42.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T10:13:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/58e75e8ab83977e3bd46f155ca7971ea0b356b7c"
+	},
+	{
+		"id": "2165a6e6c4d627f12d6fb78671e3fed43ef35b22",
+		"short_id": "2165a6e6",
+		"created_at": "2023-07-18T10:13:17.000+08:00",
+		"parent_ids": [
+			"364c8b4df98defa785df61f063ffb04058eeb625"
+		],
+		"title": "feature：分包商名录接口适配",
+		"message": "feature：分包商名录接口适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-18T10:13:17.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-18T10:13:17.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2165a6e6c4d627f12d6fb78671e3fed43ef35b22"
+	},
+	{
+		"id": "364c8b4df98defa785df61f063ffb04058eeb625",
+		"short_id": "364c8b4d",
+		"created_at": "2023-07-18T08:58:43.000+08:00",
+		"parent_ids": [
+			"d039684db552c58e013c57083b98841cc23f93e4"
+		],
+		"title": "准入代码提交",
+		"message": "准入代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-18T08:58:43.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-18T08:58:43.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/364c8b4df98defa785df61f063ffb04058eeb625"
+	},
+	{
+		"id": "d039684db552c58e013c57083b98841cc23f93e4",
+		"short_id": "d039684d",
+		"created_at": "2023-07-18T08:51:21.000+08:00",
+		"parent_ids": [
+			"9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+			"e5226b1c5eceefca901f09cdd6e13bb2dca222fa"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:21.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:21.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d039684db552c58e013c57083b98841cc23f93e4"
+	},
+	{
+		"id": "9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+		"short_id": "9985a03e",
+		"created_at": "2023-07-18T08:51:17.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+		],
+		"title": "fix： 优化快速搜索组件",
+		"message": "fix： 优化快速搜索组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:17.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:17.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9985a03e4a6232b1167fa6db80f8ac70ec3607c3"
+	},
+	{
+		"id": "e5226b1c5eceefca901f09cdd6e13bb2dca222fa",
+		"short_id": "e5226b1c",
+		"created_at": "2023-07-17T18:19:41.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+			"fbbb869b8712f7939d9aac8704d46f27741b90f2"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature；分包商名录接口适配\n\nSee merge request crcc-web/laowufbs-app!6",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-17T18:19:41.000+08:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-17T18:19:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/e5226b1c5eceefca901f09cdd6e13bb2dca222fa"
+	},
+	{
+		"id": "fbbb869b8712f7939d9aac8704d46f27741b90f2",
+		"short_id": "fbbb869b",
+		"created_at": "2023-07-17T18:19:13.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+		],
+		"title": "feature；分包商名录接口适配",
+		"message": "feature；分包商名录接口适配\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-17T18:19:13.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-17T18:19:13.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fbbb869b8712f7939d9aac8704d46f27741b90f2"
+	},
+	{
+		"id": "f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+		"short_id": "f395e0bc",
+		"created_at": "2023-07-17T17:20:09.000+08:00",
+		"parent_ids": [
+			"a1696a6b87a9551882cda591472867815cc0ca77"
+		],
+		"title": "feat: 增加菜单权限控制",
+		"message": "feat: 增加菜单权限控制\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T17:20:09.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T17:20:09.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+	},
+	{
+		"id": "a1696a6b87a9551882cda591472867815cc0ca77",
+		"short_id": "a1696a6b",
+		"created_at": "2023-07-17T16:42:30.000+08:00",
+		"parent_ids": [
+			"7df72479376034041f872dc64feed1fc04b4b88e"
+		],
+		"title": "feat：对接合同和关联合同接口",
+		"message": "feat：对接合同和关联合同接口\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T16:42:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T16:42:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a1696a6b87a9551882cda591472867815cc0ca77"
+	},
+	{
+		"id": "7df72479376034041f872dc64feed1fc04b4b88e",
+		"short_id": "7df72479",
+		"created_at": "2023-07-17T15:01:39.000+08:00",
+		"parent_ids": [
+			"9366cdde7ea748f33597f5a12508b92e6bb7fc6a"
+		],
+		"title": "fix: 修复下拉刷新列表",
+		"message": "fix: 修复下拉刷新列表\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T15:01:39.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T15:01:39.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7df72479376034041f872dc64feed1fc04b4b88e"
+	},
+	{
+		"id": "9366cdde7ea748f33597f5a12508b92e6bb7fc6a",
+		"short_id": "9366cdde",
+		"created_at": "2023-07-17T14:55:51.000+08:00",
+		"parent_ids": [
+			"c515d12c7a21fc96cc6f5de186d96f157e602eab"
+		],
+		"title": "fix: 修复项目树节点无法缓存问题",
+		"message": "fix: 修复项目树节点无法缓存问题\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T14:55:51.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T14:55:51.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9366cdde7ea748f33597f5a12508b92e6bb7fc6a"
+	},
+	{
+		"id": "c515d12c7a21fc96cc6f5de186d96f157e602eab",
+		"short_id": "c515d12c",
+		"created_at": "2023-07-17T11:42:46.000+08:00",
+		"parent_ids": [
+			"2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T11:42:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T11:42:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/c515d12c7a21fc96cc6f5de186d96f157e602eab"
+	},
+	{
+		"id": "2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce",
+		"short_id": "2b7a8c6c",
+		"created_at": "2023-07-17T10:25:32.000+08:00",
+		"parent_ids": [
+			"10bf5905135d4aac331305d3062d41c07032b9dd"
+		],
+		"title": "获取项目和公司列表接口定义",
+		"message": "获取项目和公司列表接口定义\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-17T10:25:32.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-17T10:25:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce"
+	},
+	{
+		"id": "10bf5905135d4aac331305d3062d41c07032b9dd",
+		"short_id": "10bf5905",
+		"created_at": "2023-07-17T09:49:00.000+08:00",
+		"parent_ids": [
+			"3700d7f4e28bd513adb4ea805c4b4f3fce82293e"
+		],
+		"title": "重构 PullRefreshList 组件",
+		"message": "重构 PullRefreshList 组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T09:49:00.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T09:49:00.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/10bf5905135d4aac331305d3062d41c07032b9dd"
+	},
+	{
+		"id": "3700d7f4e28bd513adb4ea805c4b4f3fce82293e",
+		"short_id": "3700d7f4",
+		"created_at": "2023-07-14T18:29:25.000+08:00",
+		"parent_ids": [
+			"f034565a1aac53035b8326af394bda8df9fa646e"
+		],
+		"title": "feat: 增加关联合同",
+		"message": "feat: 增加关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:29:25.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:29:25.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3700d7f4e28bd513adb4ea805c4b4f3fce82293e"
+	},
+	{
+		"id": "f034565a1aac53035b8326af394bda8df9fa646e",
+		"short_id": "f034565a",
+		"created_at": "2023-07-14T18:17:33.000+08:00",
+		"parent_ids": [
+			"e1211912ad1790e6096450d958c41082662e3a05"
+		],
+		"title": "删除",
+		"message": "删除\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:17:33.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:17:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f034565a1aac53035b8326af394bda8df9fa646e"
+	},
+	{
+		"id": "e1211912ad1790e6096450d958c41082662e3a05",
+		"short_id": "e1211912",
+		"created_at": "2023-07-14T18:16:32.000+08:00",
+		"parent_ids": [
+			"8cc090ec576e74c1305c11f69359828da45c2cd5"
+		],
+		"title": "fix: 重构准入",
+		"message": "fix: 重构准入\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:16:32.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:16:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/e1211912ad1790e6096450d958c41082662e3a05"
+	},
+	{
+		"id": "8cc090ec576e74c1305c11f69359828da45c2cd5",
+		"short_id": "8cc090ec",
+		"created_at": "2023-07-14T17:09:37.000+08:00",
+		"parent_ids": [
+			"7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+		],
+		"title": "feat: 调整公共组件  PullRefreshList",
+		"message": "feat: 调整公共组件  PullRefreshList\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T17:09:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T17:09:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/8cc090ec576e74c1305c11f69359828da45c2cd5"
+	},
+	{
+		"id": "7ad40f494f234ecb3bfb3be5b4ae55680862f07b",
+		"short_id": "7ad40f49",
+		"created_at": "2023-07-14T08:01:57.000+00:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+			"22212d41da4c07199a5edd255885b9c941885eff"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录详情\n\nSee merge request crcc-web/laowufbs-app!3",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T08:01:57.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T08:01:57.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+	},
+	{
+		"id": "22212d41da4c07199a5edd255885b9c941885eff",
+		"short_id": "22212d41",
+		"created_at": "2023-07-14T16:01:29.000+08:00",
+		"parent_ids": [
+			"fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+		],
+		"title": "feature：分包商名录详情",
+		"message": "feature：分包商名录详情\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T16:01:29.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T16:01:29.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/22212d41da4c07199a5edd255885b9c941885eff"
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3"
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82"
+	},
+	{
+		"id": "5ce55333fd8188e9b4e509f8659ea3111972fb94",
+		"short_id": "5ce55333",
+		"created_at": "2023-07-14T06:48:30.000+00:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+			"fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录重构\n\nSee merge request crcc-web/laowufbs-app!2",
+		"author_name": "赵文准",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T06:48:30.000+00:00",
+		"committer_name": "赵文准",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T06:48:30.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5ce55333fd8188e9b4e509f8659ea3111972fb94"
+	},
+	{
+		"id": "fd5896f8555d6b88251f4e1810201f8a5e106ba2",
+		"short_id": "fd5896f8",
+		"created_at": "2023-07-14T14:45:11.000+08:00",
+		"parent_ids": [
+			"5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+		],
+		"title": "feature：分包商名录重构",
+		"message": "feature：分包商名录重构\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-14T14:45:11.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-14T14:45:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd5896f8555d6b88251f4e1810201f8a5e106ba2"
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726"
+	},
+	{
+		"id": "7abb982c4a1c5db6d1ca99519cc6312011e68ad3",
+		"short_id": "7abb982c",
+		"created_at": "2023-07-14T10:03:28.000+08:00",
+		"parent_ids": [
+			"cdff0cf888cbea7b919288aab946cba4b864b0c2"
+		],
+		"title": "审批流",
+		"message": "审批流\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-14T10:03:28.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-14T10:03:28.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2"
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94"
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22"
+	},
+	{
+		"id": "f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d",
+		"short_id": "f9f5e779",
+		"created_at": "2023-07-13T18:23:03.000+08:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+		],
+		"title": "feature：分包商名录",
+		"message": "feature：分包商名录\n",
+		"author_name": "zhaowenzhun",
+		"author_email": "674819856@qq.com",
+		"authored_date": "2023-07-13T18:23:03.000+08:00",
+		"committer_name": "zhaowenzhun",
+		"committer_email": "674819856@qq.com",
+		"committed_date": "2023-07-13T18:23:03.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8"
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e"
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf"
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa"
+	},
+	{
+		"id": "f82b2fea3dea6f146a1bb97313a626e7bddf26b6",
+		"short_id": "f82b2fea",
+		"created_at": "2023-07-12T09:40:08.000+08:00",
+		"parent_ids": [
+			"abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+		],
+		"title": "代码提交",
+		"message": "代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-12T09:40:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-12T09:40:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9"
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b"
+	},
+	{
+		"id": "fd558e171113a07e97a923317c2c840997b0d2c5",
+		"short_id": "fd558e17",
+		"created_at": "2023-07-11T18:42:08.000+08:00",
+		"parent_ids": [
+			"3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+			"607903d0bcfef82fd2668297c447fee55d62fcfe"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:08.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:08.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fd558e171113a07e97a923317c2c840997b0d2c5"
+	},
+	{
+		"id": "3005d19f32085af15c42c88e2e4ee7b5ee4125bf",
+		"short_id": "3005d19f",
+		"created_at": "2023-07-11T18:42:06.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "准入代码提交",
+		"message": "准入代码提交\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-11T18:42:06.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-11T18:42:06.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3005d19f32085af15c42c88e2e4ee7b5ee4125bf"
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe"
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50"
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d"
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0"
+	},
+	{
+		"id": "29c8214a63518c32d23c86ef09df8675c93f0224",
+		"short_id": "29c8214a",
+		"created_at": "2023-07-10T18:40:33.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "审批流接入初步修改",
+		"message": "审批流接入初步修改\n",
+		"author_name": "MiyaMeng",
+		"author_email": "mmeifg@163.com",
+		"authored_date": "2023-07-10T18:40:33.000+08:00",
+		"committer_name": "MiyaMeng",
+		"committer_email": "mmeifg@163.com",
+		"committed_date": "2023-07-10T18:40:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/29c8214a63518c32d23c86ef09df8675c93f0224"
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56"
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197"
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40"
+	}
+]

@@ -1,0 +1,3663 @@
+[
+	{
+		"id": "d8815755b58bfda02dc3181522bff97cc4d13af7",
+		"short_id": "d8815755",
+		"created_at": "2023-07-18T16:49:45.000+08:00",
+		"parent_ids": [
+			"198260aabe4217d0cfdfe8e322f8a386778c85a0"
+		],
+		"title": "fix： 提交",
+		"message": "fix： 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:49:45.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:49:45.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d8815755b58bfda02dc3181522bff97cc4d13af7",
+		"stats": {
+			"additions": 22,
+			"deletions": 8,
+			"total": 30
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "6f126b600df20f656577ac7b9beaab4fc4bc47dd",
+		"short_id": "6f126b60",
+		"created_at": "2023-07-18T16:28:41.000+08:00",
+		"parent_ids": [
+			"2bcf4d77351c5eb5be89a2ded2c023ae4784ae55"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:28:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:28:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/6f126b600df20f656577ac7b9beaab4fc4bc47dd",
+		"stats": {
+			"additions": 1,
+			"deletions": 1,
+			"total": 2
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "2bcf4d77351c5eb5be89a2ded2c023ae4784ae55",
+		"short_id": "2bcf4d77",
+		"created_at": "2023-07-18T16:24:19.000+08:00",
+		"parent_ids": [
+			"8c32c23b243790e3566770f8eec8f465b09abc35"
+		],
+		"title": "fix: 修改tab点击后，自动滚动对应位置",
+		"message": "fix: 修改tab点击后，自动滚动对应位置\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:24:19.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:24:19.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2bcf4d77351c5eb5be89a2ded2c023ae4784ae55",
+		"stats": {
+			"additions": 35,
+			"deletions": 21,
+			"total": 56
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "0e8318b97694aaf8eb34ad11cb76476e66405adc",
+		"short_id": "0e8318b9",
+		"created_at": "2023-07-18T15:26:43.000+08:00",
+		"parent_ids": [
+			"4091b2b6e3c565a9e3adf361456af07704f80761"
+		],
+		"title": "fix： 路由缓存后，在url参数变化后，重新加载",
+		"message": "fix： 路由缓存后，在url参数变化后，重新加载\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T15:26:43.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T15:26:43.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0e8318b97694aaf8eb34ad11cb76476e66405adc",
+		"stats": {
+			"additions": 176,
+			"deletions": 95,
+			"total": 271
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "67b08f757bf6ddff321be178bd85318d55d670bc",
+		"short_id": "67b08f75",
+		"created_at": "2023-07-18T13:24:37.000+08:00",
+		"parent_ids": [
+			"f2e788a6bf794ab463733fb9fcb1b46f54c87b9b"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:24:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:24:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/67b08f757bf6ddff321be178bd85318d55d670bc",
+		"stats": {
+			"additions": 6,
+			"deletions": 6,
+			"total": 12
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f2e788a6bf794ab463733fb9fcb1b46f54c87b9b",
+		"short_id": "f2e788a6",
+		"created_at": "2023-07-18T13:22:31.000+08:00",
+		"parent_ids": [
+			"be33bab06fe266b7b48a89b00c3e7424bf2059c2"
+		],
+		"title": "feat: 提测合同和关联合同",
+		"message": "feat: 提测合同和关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:22:31.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:22:31.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f2e788a6bf794ab463733fb9fcb1b46f54c87b9b",
+		"stats": {
+			"additions": 2084,
+			"deletions": 589,
+			"total": 2673
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "d039684db552c58e013c57083b98841cc23f93e4",
+		"short_id": "d039684d",
+		"created_at": "2023-07-18T08:51:21.000+08:00",
+		"parent_ids": [
+			"9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+			"e5226b1c5eceefca901f09cdd6e13bb2dca222fa"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:21.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:21.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d039684db552c58e013c57083b98841cc23f93e4",
+		"stats": {
+			"additions": 610,
+			"deletions": 238,
+			"total": 848
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+		"short_id": "9985a03e",
+		"created_at": "2023-07-18T08:51:17.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+		],
+		"title": "fix： 优化快速搜索组件",
+		"message": "fix： 优化快速搜索组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:17.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:17.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+		"stats": {
+			"additions": 35,
+			"deletions": 28,
+			"total": 63
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+		"short_id": "f395e0bc",
+		"created_at": "2023-07-17T17:20:09.000+08:00",
+		"parent_ids": [
+			"a1696a6b87a9551882cda591472867815cc0ca77"
+		],
+		"title": "feat: 增加菜单权限控制",
+		"message": "feat: 增加菜单权限控制\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T17:20:09.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T17:20:09.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+		"stats": {
+			"additions": 104,
+			"deletions": 385,
+			"total": 489
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "a1696a6b87a9551882cda591472867815cc0ca77",
+		"short_id": "a1696a6b",
+		"created_at": "2023-07-17T16:42:30.000+08:00",
+		"parent_ids": [
+			"7df72479376034041f872dc64feed1fc04b4b88e"
+		],
+		"title": "feat：对接合同和关联合同接口",
+		"message": "feat：对接合同和关联合同接口\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T16:42:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T16:42:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a1696a6b87a9551882cda591472867815cc0ca77",
+		"stats": {
+			"additions": 621,
+			"deletions": 1020,
+			"total": 1641
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "7df72479376034041f872dc64feed1fc04b4b88e",
+		"short_id": "7df72479",
+		"created_at": "2023-07-17T15:01:39.000+08:00",
+		"parent_ids": [
+			"9366cdde7ea748f33597f5a12508b92e6bb7fc6a"
+		],
+		"title": "fix: 修复下拉刷新列表",
+		"message": "fix: 修复下拉刷新列表\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T15:01:39.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T15:01:39.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7df72479376034041f872dc64feed1fc04b4b88e",
+		"stats": {
+			"additions": 26,
+			"deletions": 6,
+			"total": 32
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9366cdde7ea748f33597f5a12508b92e6bb7fc6a",
+		"short_id": "9366cdde",
+		"created_at": "2023-07-17T14:55:51.000+08:00",
+		"parent_ids": [
+			"c515d12c7a21fc96cc6f5de186d96f157e602eab"
+		],
+		"title": "fix: 修复项目树节点无法缓存问题",
+		"message": "fix: 修复项目树节点无法缓存问题\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T14:55:51.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T14:55:51.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9366cdde7ea748f33597f5a12508b92e6bb7fc6a",
+		"stats": {
+			"additions": 472,
+			"deletions": 549,
+			"total": 1021
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "c515d12c7a21fc96cc6f5de186d96f157e602eab",
+		"short_id": "c515d12c",
+		"created_at": "2023-07-17T11:42:46.000+08:00",
+		"parent_ids": [
+			"2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T11:42:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T11:42:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/c515d12c7a21fc96cc6f5de186d96f157e602eab",
+		"stats": {
+			"additions": 490,
+			"deletions": 100,
+			"total": 590
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "10bf5905135d4aac331305d3062d41c07032b9dd",
+		"short_id": "10bf5905",
+		"created_at": "2023-07-17T09:49:00.000+08:00",
+		"parent_ids": [
+			"3700d7f4e28bd513adb4ea805c4b4f3fce82293e"
+		],
+		"title": "重构 PullRefreshList 组件",
+		"message": "重构 PullRefreshList 组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T09:49:00.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T09:49:00.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/10bf5905135d4aac331305d3062d41c07032b9dd",
+		"stats": {
+			"additions": 93,
+			"deletions": 71,
+			"total": 164
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "3700d7f4e28bd513adb4ea805c4b4f3fce82293e",
+		"short_id": "3700d7f4",
+		"created_at": "2023-07-14T18:29:25.000+08:00",
+		"parent_ids": [
+			"f034565a1aac53035b8326af394bda8df9fa646e"
+		],
+		"title": "feat: 增加关联合同",
+		"message": "feat: 增加关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:29:25.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:29:25.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3700d7f4e28bd513adb4ea805c4b4f3fce82293e",
+		"stats": {
+			"additions": 1814,
+			"deletions": 29,
+			"total": 1843
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f034565a1aac53035b8326af394bda8df9fa646e",
+		"short_id": "f034565a",
+		"created_at": "2023-07-14T18:17:33.000+08:00",
+		"parent_ids": [
+			"e1211912ad1790e6096450d958c41082662e3a05"
+		],
+		"title": "删除",
+		"message": "删除\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:17:33.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:17:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f034565a1aac53035b8326af394bda8df9fa646e",
+		"stats": {
+			"additions": 0,
+			"deletions": 186,
+			"total": 186
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "e1211912ad1790e6096450d958c41082662e3a05",
+		"short_id": "e1211912",
+		"created_at": "2023-07-14T18:16:32.000+08:00",
+		"parent_ids": [
+			"8cc090ec576e74c1305c11f69359828da45c2cd5"
+		],
+		"title": "fix: 重构准入",
+		"message": "fix: 重构准入\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:16:32.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:16:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/e1211912ad1790e6096450d958c41082662e3a05",
+		"stats": {
+			"additions": 1389,
+			"deletions": 509,
+			"total": 1898
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "8cc090ec576e74c1305c11f69359828da45c2cd5",
+		"short_id": "8cc090ec",
+		"created_at": "2023-07-14T17:09:37.000+08:00",
+		"parent_ids": [
+			"7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+		],
+		"title": "feat: 调整公共组件  PullRefreshList",
+		"message": "feat: 调整公共组件  PullRefreshList\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T17:09:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T17:09:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/8cc090ec576e74c1305c11f69359828da45c2cd5",
+		"stats": {
+			"additions": 201,
+			"deletions": 501,
+			"total": 702
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"stats": {
+			"additions": 24,
+			"deletions": 1,
+			"total": 25
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"stats": {
+			"additions": 58,
+			"deletions": 31,
+			"total": 89
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"stats": {
+			"additions": 1802,
+			"deletions": 1267,
+			"total": 3069
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"stats": {
+			"additions": 105,
+			"deletions": 660,
+			"total": 765
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"stats": {
+			"additions": 62,
+			"deletions": 78,
+			"total": 140
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"stats": {
+			"additions": 2393,
+			"deletions": 1003,
+			"total": 3396
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"stats": {
+			"additions": 1196,
+			"deletions": 500,
+			"total": 1696
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"stats": {
+			"additions": 581,
+			"deletions": 212,
+			"total": 793
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"stats": {
+			"additions": 1082,
+			"deletions": 268,
+			"total": 1350
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"stats": {
+			"additions": 37,
+			"deletions": 27,
+			"total": 64
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"stats": {
+			"additions": 383,
+			"deletions": 111,
+			"total": 494
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"stats": {
+			"additions": 8,
+			"deletions": 3,
+			"total": 11
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b",
+		"stats": {
+			"additions": 641,
+			"deletions": 387,
+			"total": 1028
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"stats": {
+			"additions": 17,
+			"deletions": 10,
+			"total": 27
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"stats": {
+			"additions": 495,
+			"deletions": 71,
+			"total": 566
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"stats": {
+			"additions": 614,
+			"deletions": 67,
+			"total": 681
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d",
+		"stats": {
+			"additions": 0,
+			"deletions": 5,
+			"total": 5
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"stats": {
+			"additions": 687,
+			"deletions": 690,
+			"total": 1377
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"stats": {
+			"additions": 571,
+			"deletions": 3,
+			"total": 574
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"stats": {
+			"additions": 26,
+			"deletions": 52,
+			"total": 78
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56",
+		"stats": {
+			"additions": 246,
+			"deletions": 468,
+			"total": 714
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"stats": {
+			"additions": 54,
+			"deletions": 110,
+			"total": 164
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"stats": {
+			"additions": 24,
+			"deletions": 1,
+			"total": 25
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"stats": {
+			"additions": 58,
+			"deletions": 31,
+			"total": 89
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"stats": {
+			"additions": 1802,
+			"deletions": 1267,
+			"total": 3069
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"stats": {
+			"additions": 105,
+			"deletions": 660,
+			"total": 765
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"stats": {
+			"additions": 62,
+			"deletions": 78,
+			"total": 140
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"stats": {
+			"additions": 2393,
+			"deletions": 1003,
+			"total": 3396
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"stats": {
+			"additions": 1196,
+			"deletions": 500,
+			"total": 1696
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"stats": {
+			"additions": 581,
+			"deletions": 212,
+			"total": 793
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"stats": {
+			"additions": 1082,
+			"deletions": 268,
+			"total": 1350
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"stats": {
+			"additions": 37,
+			"deletions": 27,
+			"total": 64
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"stats": {
+			"additions": 383,
+			"deletions": 111,
+			"total": 494
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"stats": {
+			"additions": 8,
+			"deletions": 3,
+			"total": 11
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b",
+		"stats": {
+			"additions": 641,
+			"deletions": 387,
+			"total": 1028
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"stats": {
+			"additions": 17,
+			"deletions": 10,
+			"total": 27
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"stats": {
+			"additions": 495,
+			"deletions": 71,
+			"total": 566
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"stats": {
+			"additions": 614,
+			"deletions": 67,
+			"total": 681
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d",
+		"stats": {
+			"additions": 0,
+			"deletions": 5,
+			"total": 5
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"stats": {
+			"additions": 687,
+			"deletions": 690,
+			"total": 1377
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"stats": {
+			"additions": 571,
+			"deletions": 3,
+			"total": 574
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"stats": {
+			"additions": 26,
+			"deletions": 52,
+			"total": 78
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56",
+		"stats": {
+			"additions": 246,
+			"deletions": 468,
+			"total": 714
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"stats": {
+			"additions": 54,
+			"deletions": 110,
+			"total": 164
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"stats": {
+			"additions": 24,
+			"deletions": 1,
+			"total": 25
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"stats": {
+			"additions": 58,
+			"deletions": 31,
+			"total": 89
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"stats": {
+			"additions": 1802,
+			"deletions": 1267,
+			"total": 3069
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"stats": {
+			"additions": 105,
+			"deletions": 660,
+			"total": 765
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"stats": {
+			"additions": 62,
+			"deletions": 78,
+			"total": 140
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"stats": {
+			"additions": 2393,
+			"deletions": 1003,
+			"total": 3396
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"stats": {
+			"additions": 1196,
+			"deletions": 500,
+			"total": 1696
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"stats": {
+			"additions": 581,
+			"deletions": 212,
+			"total": 793
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"stats": {
+			"additions": 1082,
+			"deletions": 268,
+			"total": 1350
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"stats": {
+			"additions": 37,
+			"deletions": 27,
+			"total": 64
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"stats": {
+			"additions": 383,
+			"deletions": 111,
+			"total": 494
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"stats": {
+			"additions": 8,
+			"deletions": 3,
+			"total": 11
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b",
+		"stats": {
+			"additions": 641,
+			"deletions": 387,
+			"total": 1028
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"stats": {
+			"additions": 17,
+			"deletions": 10,
+			"total": 27
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"stats": {
+			"additions": 495,
+			"deletions": 71,
+			"total": 566
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"stats": {
+			"additions": 614,
+			"deletions": 67,
+			"total": 681
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d",
+		"stats": {
+			"additions": 0,
+			"deletions": 5,
+			"total": 5
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"stats": {
+			"additions": 687,
+			"deletions": 690,
+			"total": 1377
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"stats": {
+			"additions": 571,
+			"deletions": 3,
+			"total": 574
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"stats": {
+			"additions": 26,
+			"deletions": 52,
+			"total": 78
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56",
+		"stats": {
+			"additions": 246,
+			"deletions": 468,
+			"total": 714
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"stats": {
+			"additions": 54,
+			"deletions": 110,
+			"total": 164
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "d8815755b58bfda02dc3181522bff97cc4d13af7",
+		"short_id": "d8815755",
+		"created_at": "2023-07-18T16:49:45.000+08:00",
+		"parent_ids": [
+			"198260aabe4217d0cfdfe8e322f8a386778c85a0"
+		],
+		"title": "fix： 提交",
+		"message": "fix： 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:49:45.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:49:45.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d8815755b58bfda02dc3181522bff97cc4d13af7",
+		"stats": {
+			"additions": 22,
+			"deletions": 8,
+			"total": 30
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "6f126b600df20f656577ac7b9beaab4fc4bc47dd",
+		"short_id": "6f126b60",
+		"created_at": "2023-07-18T16:28:41.000+08:00",
+		"parent_ids": [
+			"2bcf4d77351c5eb5be89a2ded2c023ae4784ae55"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:28:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:28:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/6f126b600df20f656577ac7b9beaab4fc4bc47dd",
+		"stats": {
+			"additions": 1,
+			"deletions": 1,
+			"total": 2
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "2bcf4d77351c5eb5be89a2ded2c023ae4784ae55",
+		"short_id": "2bcf4d77",
+		"created_at": "2023-07-18T16:24:19.000+08:00",
+		"parent_ids": [
+			"8c32c23b243790e3566770f8eec8f465b09abc35"
+		],
+		"title": "fix: 修改tab点击后，自动滚动对应位置",
+		"message": "fix: 修改tab点击后，自动滚动对应位置\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T16:24:19.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T16:24:19.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2bcf4d77351c5eb5be89a2ded2c023ae4784ae55",
+		"stats": {
+			"additions": 35,
+			"deletions": 21,
+			"total": 56
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "0e8318b97694aaf8eb34ad11cb76476e66405adc",
+		"short_id": "0e8318b9",
+		"created_at": "2023-07-18T15:26:43.000+08:00",
+		"parent_ids": [
+			"4091b2b6e3c565a9e3adf361456af07704f80761"
+		],
+		"title": "fix： 路由缓存后，在url参数变化后，重新加载",
+		"message": "fix： 路由缓存后，在url参数变化后，重新加载\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T15:26:43.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T15:26:43.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0e8318b97694aaf8eb34ad11cb76476e66405adc",
+		"stats": {
+			"additions": 176,
+			"deletions": 95,
+			"total": 271
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "67b08f757bf6ddff321be178bd85318d55d670bc",
+		"short_id": "67b08f75",
+		"created_at": "2023-07-18T13:24:37.000+08:00",
+		"parent_ids": [
+			"f2e788a6bf794ab463733fb9fcb1b46f54c87b9b"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:24:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:24:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/67b08f757bf6ddff321be178bd85318d55d670bc",
+		"stats": {
+			"additions": 6,
+			"deletions": 6,
+			"total": 12
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f2e788a6bf794ab463733fb9fcb1b46f54c87b9b",
+		"short_id": "f2e788a6",
+		"created_at": "2023-07-18T13:22:31.000+08:00",
+		"parent_ids": [
+			"be33bab06fe266b7b48a89b00c3e7424bf2059c2"
+		],
+		"title": "feat: 提测合同和关联合同",
+		"message": "feat: 提测合同和关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T13:22:31.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T13:22:31.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f2e788a6bf794ab463733fb9fcb1b46f54c87b9b",
+		"stats": {
+			"additions": 2084,
+			"deletions": 589,
+			"total": 2673
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "d039684db552c58e013c57083b98841cc23f93e4",
+		"short_id": "d039684d",
+		"created_at": "2023-07-18T08:51:21.000+08:00",
+		"parent_ids": [
+			"9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+			"e5226b1c5eceefca901f09cdd6e13bb2dca222fa"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:21.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:21.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/d039684db552c58e013c57083b98841cc23f93e4",
+		"stats": {
+			"additions": 610,
+			"deletions": 238,
+			"total": 848
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+		"short_id": "9985a03e",
+		"created_at": "2023-07-18T08:51:17.000+08:00",
+		"parent_ids": [
+			"f395e0bc017cb60c9cde706c9a0afa9c33b37bb6"
+		],
+		"title": "fix： 优化快速搜索组件",
+		"message": "fix： 优化快速搜索组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-18T08:51:17.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-18T08:51:17.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9985a03e4a6232b1167fa6db80f8ac70ec3607c3",
+		"stats": {
+			"additions": 35,
+			"deletions": 28,
+			"total": 63
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+		"short_id": "f395e0bc",
+		"created_at": "2023-07-17T17:20:09.000+08:00",
+		"parent_ids": [
+			"a1696a6b87a9551882cda591472867815cc0ca77"
+		],
+		"title": "feat: 增加菜单权限控制",
+		"message": "feat: 增加菜单权限控制\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T17:20:09.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T17:20:09.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f395e0bc017cb60c9cde706c9a0afa9c33b37bb6",
+		"stats": {
+			"additions": 104,
+			"deletions": 385,
+			"total": 489
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "a1696a6b87a9551882cda591472867815cc0ca77",
+		"short_id": "a1696a6b",
+		"created_at": "2023-07-17T16:42:30.000+08:00",
+		"parent_ids": [
+			"7df72479376034041f872dc64feed1fc04b4b88e"
+		],
+		"title": "feat：对接合同和关联合同接口",
+		"message": "feat：对接合同和关联合同接口\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T16:42:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T16:42:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a1696a6b87a9551882cda591472867815cc0ca77",
+		"stats": {
+			"additions": 621,
+			"deletions": 1020,
+			"total": 1641
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "7df72479376034041f872dc64feed1fc04b4b88e",
+		"short_id": "7df72479",
+		"created_at": "2023-07-17T15:01:39.000+08:00",
+		"parent_ids": [
+			"9366cdde7ea748f33597f5a12508b92e6bb7fc6a"
+		],
+		"title": "fix: 修复下拉刷新列表",
+		"message": "fix: 修复下拉刷新列表\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T15:01:39.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T15:01:39.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/7df72479376034041f872dc64feed1fc04b4b88e",
+		"stats": {
+			"additions": 26,
+			"deletions": 6,
+			"total": 32
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9366cdde7ea748f33597f5a12508b92e6bb7fc6a",
+		"short_id": "9366cdde",
+		"created_at": "2023-07-17T14:55:51.000+08:00",
+		"parent_ids": [
+			"c515d12c7a21fc96cc6f5de186d96f157e602eab"
+		],
+		"title": "fix: 修复项目树节点无法缓存问题",
+		"message": "fix: 修复项目树节点无法缓存问题\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T14:55:51.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T14:55:51.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9366cdde7ea748f33597f5a12508b92e6bb7fc6a",
+		"stats": {
+			"additions": 472,
+			"deletions": 549,
+			"total": 1021
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "c515d12c7a21fc96cc6f5de186d96f157e602eab",
+		"short_id": "c515d12c",
+		"created_at": "2023-07-17T11:42:46.000+08:00",
+		"parent_ids": [
+			"2b7a8c6c732c5ee23ee53afe8fc61ff301a5d7ce"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T11:42:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T11:42:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/c515d12c7a21fc96cc6f5de186d96f157e602eab",
+		"stats": {
+			"additions": 490,
+			"deletions": 100,
+			"total": 590
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "10bf5905135d4aac331305d3062d41c07032b9dd",
+		"short_id": "10bf5905",
+		"created_at": "2023-07-17T09:49:00.000+08:00",
+		"parent_ids": [
+			"3700d7f4e28bd513adb4ea805c4b4f3fce82293e"
+		],
+		"title": "重构 PullRefreshList 组件",
+		"message": "重构 PullRefreshList 组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-17T09:49:00.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-17T09:49:00.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/10bf5905135d4aac331305d3062d41c07032b9dd",
+		"stats": {
+			"additions": 93,
+			"deletions": 71,
+			"total": 164
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "3700d7f4e28bd513adb4ea805c4b4f3fce82293e",
+		"short_id": "3700d7f4",
+		"created_at": "2023-07-14T18:29:25.000+08:00",
+		"parent_ids": [
+			"f034565a1aac53035b8326af394bda8df9fa646e"
+		],
+		"title": "feat: 增加关联合同",
+		"message": "feat: 增加关联合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:29:25.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:29:25.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3700d7f4e28bd513adb4ea805c4b4f3fce82293e",
+		"stats": {
+			"additions": 1814,
+			"deletions": 29,
+			"total": 1843
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f034565a1aac53035b8326af394bda8df9fa646e",
+		"short_id": "f034565a",
+		"created_at": "2023-07-14T18:17:33.000+08:00",
+		"parent_ids": [
+			"e1211912ad1790e6096450d958c41082662e3a05"
+		],
+		"title": "删除",
+		"message": "删除\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:17:33.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:17:33.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f034565a1aac53035b8326af394bda8df9fa646e",
+		"stats": {
+			"additions": 0,
+			"deletions": 186,
+			"total": 186
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "e1211912ad1790e6096450d958c41082662e3a05",
+		"short_id": "e1211912",
+		"created_at": "2023-07-14T18:16:32.000+08:00",
+		"parent_ids": [
+			"8cc090ec576e74c1305c11f69359828da45c2cd5"
+		],
+		"title": "fix: 重构准入",
+		"message": "fix: 重构准入\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T18:16:32.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T18:16:32.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/e1211912ad1790e6096450d958c41082662e3a05",
+		"stats": {
+			"additions": 1389,
+			"deletions": 509,
+			"total": 1898
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "8cc090ec576e74c1305c11f69359828da45c2cd5",
+		"short_id": "8cc090ec",
+		"created_at": "2023-07-14T17:09:37.000+08:00",
+		"parent_ids": [
+			"7ad40f494f234ecb3bfb3be5b4ae55680862f07b"
+		],
+		"title": "feat: 调整公共组件  PullRefreshList",
+		"message": "feat: 调整公共组件  PullRefreshList\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T17:09:37.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T17:09:37.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/8cc090ec576e74c1305c11f69359828da45c2cd5",
+		"stats": {
+			"additions": 201,
+			"deletions": 501,
+			"total": 702
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"short_id": "fe44463f",
+		"created_at": "2023-07-14T15:50:24.000+08:00",
+		"parent_ids": [
+			"b6ca62bcf66e710a214572636c765ff5a17bdc82"
+		],
+		"title": "feat: 增加重定向判断",
+		"message": "feat: 增加重定向判断\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:50:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:50:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/fe44463fd0b9747c89e90af5ab1ae64eda471fb3",
+		"stats": {
+			"additions": 24,
+			"deletions": 1,
+			"total": 25
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"short_id": "b6ca62bc",
+		"created_at": "2023-07-14T15:39:01.000+08:00",
+		"parent_ids": [
+			"5ce55333fd8188e9b4e509f8659ea3111972fb94"
+		],
+		"title": "feat: 调整公共组件",
+		"message": "feat: 调整公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T15:39:01.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T15:39:01.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/b6ca62bcf66e710a214572636c765ff5a17bdc82",
+		"stats": {
+			"additions": 58,
+			"deletions": 31,
+			"total": 89
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"short_id": "5f8a4a5a",
+		"created_at": "2023-07-14T14:13:07.000+08:00",
+		"parent_ids": [
+			"7abb982c4a1c5db6d1ca99519cc6312011e68ad3"
+		],
+		"title": "feat: 提交合同管理",
+		"message": "feat: 提交合同管理\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-14T14:13:07.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-14T14:13:07.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/5f8a4a5a76c013a0418c5cc925fe6a2c2719f726",
+		"stats": {
+			"additions": 1802,
+			"deletions": 1267,
+			"total": 3069
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"short_id": "cdff0cf8",
+		"created_at": "2023-07-13T19:15:41.000+08:00",
+		"parent_ids": [
+			"bca8d8553311705942665fe44df8ee0ac3dc5d94"
+		],
+		"title": "feat: 整合公共组件",
+		"message": "feat: 整合公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T19:15:41.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T19:15:41.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cdff0cf888cbea7b919288aab946cba4b864b0c2",
+		"stats": {
+			"additions": 105,
+			"deletions": 660,
+			"total": 765
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"short_id": "bca8d855",
+		"created_at": "2023-07-13T18:57:22.000+08:00",
+		"parent_ids": [
+			"59a2d10f77f8b1244a157d857b09e572538e1b22"
+		],
+		"title": "feat: 提交合同",
+		"message": "feat: 提交合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:57:22.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:57:22.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bca8d8553311705942665fe44df8ee0ac3dc5d94",
+		"stats": {
+			"additions": 62,
+			"deletions": 78,
+			"total": 140
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"short_id": "59a2d10f",
+		"created_at": "2023-07-13T10:38:59.000+00:00",
+		"parent_ids": [
+			"9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+			"f9f5e779c9f3a318180fb47aa8923f3c2b5c7a1d"
+		],
+		"title": "Merge branch 'dev-zhaowz' into 'dev'",
+		"message": "Merge branch 'dev-zhaowz' into 'dev'\n\nfeature：分包商名录\n\nSee merge request crcc-web/laowufbs-app!1",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T10:38:59.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T10:38:59.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/59a2d10f77f8b1244a157d857b09e572538e1b22",
+		"stats": {
+			"additions": 2393,
+			"deletions": 1003,
+			"total": 3396
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"short_id": "9f2c7eb8",
+		"created_at": "2023-07-13T18:12:34.000+08:00",
+		"parent_ids": [
+			"f968d91cb98e75a5aaff201cf327c7b101fc732e"
+		],
+		"title": "feat: 提交",
+		"message": "feat: 提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T18:12:34.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T18:12:34.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9f2c7eb8c0b50b237e04ef41fffe6b5b3f122af8",
+		"stats": {
+			"additions": 1196,
+			"deletions": 500,
+			"total": 1696
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"short_id": "f968d91c",
+		"created_at": "2023-07-13T14:13:04.000+08:00",
+		"parent_ids": [
+			"3e9a4362bef828a89ee1d3144211ca715912ecdf"
+		],
+		"title": ":sparkles: feat(custom): 增加分包合同",
+		"message": ":sparkles: feat(custom): 增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T14:13:04.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T14:13:04.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/f968d91cb98e75a5aaff201cf327c7b101fc732e",
+		"stats": {
+			"additions": 581,
+			"deletions": 212,
+			"total": 793
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"short_id": "3e9a4362",
+		"created_at": "2023-07-13T08:57:18.000+08:00",
+		"parent_ids": [
+			"a92021a4b23abf1dd98cc0154c1d09d0f59246c8"
+		],
+		"title": ":sparkles: feat(custom): 增加 合同详情页",
+		"message": ":sparkles: feat(custom): 增加 合同详情页\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-13T08:57:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-13T08:57:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/3e9a4362bef828a89ee1d3144211ca715912ecdf",
+		"stats": {
+			"additions": 1082,
+			"deletions": 268,
+			"total": 1350
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"short_id": "a92021a4",
+		"created_at": "2023-07-12T13:08:47.000+08:00",
+		"parent_ids": [
+			"0a12316a7f71953571787b689d2dca8c4e30feaa"
+		],
+		"title": "feat: 增加详情",
+		"message": "feat: 增加详情\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T13:08:47.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T13:08:47.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/a92021a4b23abf1dd98cc0154c1d09d0f59246c8",
+		"stats": {
+			"additions": 37,
+			"deletions": 27,
+			"total": 64
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"short_id": "0a12316a",
+		"created_at": "2023-07-12T11:17:50.000+08:00",
+		"parent_ids": [
+			"f82b2fea3dea6f146a1bb97313a626e7bddf26b6"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T11:17:50.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T11:17:50.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/0a12316a7f71953571787b689d2dca8c4e30feaa",
+		"stats": {
+			"additions": 383,
+			"deletions": 111,
+			"total": 494
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"short_id": "abc3222a",
+		"created_at": "2023-07-12T09:03:18.000+08:00",
+		"parent_ids": [
+			"cb9562481e34efb358457bffa481e2e7d56a924b"
+		],
+		"title": "fix: 修改iconfont",
+		"message": "fix: 修改iconfont\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T09:03:18.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T09:03:18.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/abc3222a53f753a9ff9d15959706ef00ac7e49d9",
+		"stats": {
+			"additions": 8,
+			"deletions": 3,
+			"total": 11
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "cb9562481e34efb358457bffa481e2e7d56a924b",
+		"short_id": "cb956248",
+		"created_at": "2023-07-12T08:40:42.000+08:00",
+		"parent_ids": [
+			"fd558e171113a07e97a923317c2c840997b0d2c5"
+		],
+		"title": "feat: 增加自动滚动tab",
+		"message": "feat: 增加自动滚动tab\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-12T08:40:42.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-12T08:40:42.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/cb9562481e34efb358457bffa481e2e7d56a924b",
+		"stats": {
+			"additions": 641,
+			"deletions": 387,
+			"total": 1028
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"short_id": "607903d0",
+		"created_at": "2023-07-11T15:05:38.000+08:00",
+		"parent_ids": [
+			"de05a81e3b955977c7cb4c27985599b31fa08f50"
+		],
+		"title": "增加下拉刷新",
+		"message": "增加下拉刷新\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:38.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:38.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/607903d0bcfef82fd2668297c447fee55d62fcfe",
+		"stats": {
+			"additions": 17,
+			"deletions": 10,
+			"total": 27
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"short_id": "de05a81e",
+		"created_at": "2023-07-11T15:05:20.000+08:00",
+		"parent_ids": [
+			"608a2e29c0102fa48d094edfa71abcf9d34d4f90"
+		],
+		"title": "增加 下拉刷新公共组件",
+		"message": "增加 下拉刷新公共组件\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T15:05:20.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T15:05:20.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/de05a81e3b955977c7cb4c27985599b31fa08f50",
+		"stats": {
+			"additions": 495,
+			"deletions": 71,
+			"total": 566
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"short_id": "608a2e29",
+		"created_at": "2023-07-11T09:35:46.000+08:00",
+		"parent_ids": [
+			"855507cfed8825ed2028da831860006077e2c22d"
+		],
+		"title": "增加分包合同",
+		"message": "增加分包合同\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:35:46.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:35:46.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/608a2e29c0102fa48d094edfa71abcf9d34d4f90",
+		"stats": {
+			"additions": 614,
+			"deletions": 67,
+			"total": 681
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "855507cfed8825ed2028da831860006077e2c22d",
+		"short_id": "855507cf",
+		"created_at": "2023-07-11T09:29:48.000+08:00",
+		"parent_ids": [
+			"9921d373ef7c0bbfb157e5f4e49a44f64becc1c0"
+		],
+		"title": "no message",
+		"message": "no message\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:29:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:29:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/855507cfed8825ed2028da831860006077e2c22d",
+		"stats": {
+			"additions": 0,
+			"deletions": 5,
+			"total": 5
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"short_id": "9921d373",
+		"created_at": "2023-07-11T09:28:54.000+08:00",
+		"parent_ids": [
+			"9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+			"29c8214a63518c32d23c86ef09df8675c93f0224"
+		],
+		"title": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev",
+		"message": "Merge branch 'dev' of http://192.168.100.90:8088/crcc-web/laowufbs-app into dev\n\n# Conflicts:\n#\tcomponents.d.ts\n#\tsrc/pages/views/access/GroupList.vue\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:28:54.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:28:54.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9921d373ef7c0bbfb157e5f4e49a44f64becc1c0",
+		"stats": {
+			"additions": 687,
+			"deletions": 690,
+			"total": 1377
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"short_id": "9feb3ee9",
+		"created_at": "2023-07-11T09:12:24.000+08:00",
+		"parent_ids": [
+			"eccdb242da50f40f39f48fc8550a24e82e3da8ff"
+		],
+		"title": "提交",
+		"message": "提交\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-11T09:12:24.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-11T09:12:24.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/9feb3ee97dd6f1c1fa1bf4ee7602309d247cb6e0",
+		"stats": {
+			"additions": 571,
+			"deletions": 3,
+			"total": 574
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"short_id": "eccdb242",
+		"created_at": "2023-07-10T15:23:02.000+08:00",
+		"parent_ids": [
+			"68809965fb613d86e4d2d6502677517b7625ec56"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T15:23:02.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T15:23:02.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/eccdb242da50f40f39f48fc8550a24e82e3da8ff",
+		"stats": {
+			"additions": 26,
+			"deletions": 52,
+			"total": 78
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "68809965fb613d86e4d2d6502677517b7625ec56",
+		"short_id": "68809965",
+		"created_at": "2023-07-10T14:38:30.000+08:00",
+		"parent_ids": [
+			"2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad"
+		],
+		"title": ":recycle: refactor(custom): 基础路由编写",
+		"message": ":recycle: refactor(custom): 基础路由编写\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-10T14:38:30.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-10T14:38:30.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/68809965fb613d86e4d2d6502677517b7625ec56",
+		"stats": {
+			"additions": 246,
+			"deletions": 468,
+			"total": 714
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"short_id": "2d31cf93",
+		"created_at": "2023-07-07T18:31:11.000+08:00",
+		"parent_ids": [
+			"bb531f4137351dcf9b63f7e6c115a50169c77197"
+		],
+		"title": ":recycle: refactor(custom):",
+		"message": ":recycle: refactor(custom):\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T18:31:11.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T18:31:11.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/2d31cf93e862b905ce42ac70f9cca1ec8d15a8ad",
+		"stats": {
+			"additions": 54,
+			"deletions": 110,
+			"total": 164
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	},
+	{
+		"id": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"short_id": "bb531f41",
+		"created_at": "2023-07-07T09:20:48.000+08:00",
+		"parent_ids": [
+			"ec284568161c592d636c2fdf93cbdeb4400e8a40"
+		],
+		"title": ":sparkles: feat(custom): 创建项目",
+		"message": ":sparkles: feat(custom): 创建项目\n\n劳务分包商创建项目\n",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T09:20:48.000+08:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T09:20:48.000+08:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/bb531f4137351dcf9b63f7e6c115a50169c77197",
+		"stats": {
+			"additions": 50469,
+			"deletions": 92,
+			"total": 50561
+		},
+		"status": "failed",
+		"project_id": 214,
+		"last_pipeline": {
+			"id": 8066,
+			"iid": 5,
+			"project_id": 214,
+			"sha": "bb531f4137351dcf9b63f7e6c115a50169c77197",
+			"ref": "release",
+			"status": "failed",
+			"source": "push",
+			"created_at": "2023-07-07T09:23:37.918+08:00",
+			"updated_at": "2023-07-07T11:00:08.511+08:00",
+			"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/pipelines/8066"
+		}
+	},
+	{
+		"id": "ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"short_id": "ec284568",
+		"created_at": "2023-07-07T00:54:07.000+00:00",
+		"parent_ids": [],
+		"title": "Initial commit",
+		"message": "Initial commit",
+		"author_name": "李 兵兵",
+		"author_email": "824610286@qq.com",
+		"authored_date": "2023-07-07T00:54:07.000+00:00",
+		"committer_name": "李 兵兵",
+		"committer_email": "824610286@qq.com",
+		"committed_date": "2023-07-07T00:54:07.000+00:00",
+		"trailers": {},
+		"web_url": "http://192.168.100.90:8088/crcc-web/laowufbs-app/-/commit/ec284568161c592d636c2fdf93cbdeb4400e8a40",
+		"stats": {
+			"additions": 92,
+			"deletions": 0,
+			"total": 92
+		},
+		"status": null,
+		"project_id": 214,
+		"last_pipeline": null
+	}
+]

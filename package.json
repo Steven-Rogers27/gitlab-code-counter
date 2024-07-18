@@ -1,0 +1,16 @@
+{
+  "name": "gitlab-code-counter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "code": "node ./src/main.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
